@@ -4,6 +4,8 @@ A local-first [Model Context Protocol](https://modelcontextprotocol.io) (MCP) se
 
 All data stays on your machine — no external API calls, no cloud storage.
 
+> **Note:** This project is adapted from [muninn-mcp](https://github.com/calclavia/muninn-mcp) and modified to run fully locally using Ollama + ChromaDB instead of cloud services.
+
 ## Features
 
 - **Persistent memory** — store and recall context across sessions via vector search
